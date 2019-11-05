@@ -1,0 +1,13 @@
+pathlib
+seaborn
+matplotlib
+sklearn
+numpy
+pandas
+torch
+fastai
+keras
+tensorflow
+librosa
+ktrain
+praat-parselmouth
