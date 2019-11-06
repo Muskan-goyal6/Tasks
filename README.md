@@ -1,6 +1,6 @@
 # MIDAS Tasks
 
-- Speech_Emotion_Recognition folder contains a .ipynb notebook and a requirement_library.txt file and a bash script. Fork and clone the repo. Use the terminal and change the directory to Speech_Emotion_Recognition folder. To install all the libraries required to run the notebook successfully, use the command <b> pip install -r requirement_library.txt </b> or run the bash script firstscip.sh
+- Speech_Emotion_Recognition folder contains a .ipynb notebook and a requirement_library.txt file and a bash script. Fork and clone the repo. Use the terminal and change the directory to Speech_Emotion_Recognition folder. To install all the libraries required to run the notebook successfully, use the command <b> pip install -r requirement_library.txt </b> or run the bash script <b> firstscip.sh </b>
   
 - Understanding-The-Planet folder contains a .ipynb notebook and a requirements_amazon.txt file. Fork and clone the repo. Use the terminal and change the directory to Understanding-The-Planet folder. To install all the libraries required to run the notebook successfully, use the command <b> pip install -r requirements_amazon.txt </b> 
   
